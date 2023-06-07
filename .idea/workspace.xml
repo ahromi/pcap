@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87bf8077-5f7d-4780-8d2a-7151d17a7258" name="Changes" comment="initial commit from IDE">
-      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+    <list default="true" id="87bf8077-5f7d-4780-8d2a-7151d17a7258" name="Changes" comment="My first python program">
+      <change afterPath="$PROJECT_DIR$/getreq.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682744386436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My first python program">
+      <created>1682760294368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682760294368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit from IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit from IDE" />
+    <MESSAGE value="My first python program" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first python program" />
   </component>
 </project>
